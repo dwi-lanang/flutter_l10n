@@ -1,0 +1,14 @@
+{
+    "language": "English",
+    "@language":{
+        "description":"English language"
+    },
+    "titlePage":"Flutter Demo Home Page",
+    "@titlePage":{
+        "description":"Title Flutter Demo Home Page"
+    },
+    "infoContentHome":"You have pushed the button this many times :",
+    "@infoContentHome":{
+        "description":"Content Info Home Page"
+    }
+}

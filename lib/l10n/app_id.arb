@@ -1,0 +1,14 @@
+{
+    "language": "Indonesia",
+    "@language":{
+        "description":"Untuk bahasa indonesia"
+    },
+    "titlePage":"Flutter Demo Halaman Home",
+    "@titlePage":{
+        "description":"Judul Flutter Demo Halaman Home"
+    },
+    "infoContentHome":"Anda telah menekan tombol ini berkali-kali :",
+    "@infoContentHome":{
+        "description":"Info Konten Halaman Home"
+    }
+}

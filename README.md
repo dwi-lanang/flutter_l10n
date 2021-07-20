@@ -1,5 +1,4 @@
 # flutter_l10n
-<img width="414" alt="1" src="https://user-images.githubusercontent.com/80384451/126364285-ef2f569c-4083-4ab7-9ffe-8d0e6cbb028d.png">
 
 https://user-images.githubusercontent.com/80384451/126365107-3e80a5f4-e45f-4c62-b98a-d714d4b92878.mov
 

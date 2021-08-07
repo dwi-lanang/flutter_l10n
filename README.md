@@ -21,3 +21,5 @@ samples, guidance on mobile development, and a full API reference.
 #Packages
 - [Provider](https://pub.dev/packages/provider)
 - [Intl](https://pub.dev/packages/intl)
+
+- Visit : https://medium.com/@dwilanang/flutter-localizations-5602a2e105c4

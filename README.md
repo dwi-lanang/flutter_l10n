@@ -1,7 +1,6 @@
 # flutter_l10n
 
-https://user-images.githubusercontent.com/80384451/126365107-3e80a5f4-e45f-4c62-b98a-d714d4b92878.mov
-
+https://user-images.githubusercontent.com/80384451/128596598-c2a1ce28-2ac6-4e9b-83ea-9b6c815f2354.mov
 
 A new Flutter project.
 
